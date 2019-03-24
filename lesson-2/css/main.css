@@ -1,3 +1,30 @@
+h1 {color:red;}
+p {color:blue;}
+
+.wrapper {
+  background-color: lightcyan;
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-start;
+  background:#FDFEFE;
+}
+.main {
+  background-color: lightgoldenrodyellow;
+  padding: 15px;
+  flex: 3;
+  background:#FBFEF2;
+  
+}
+.sidebar {
+  background-color: lightgreen;
+  border: 1px dotted #000;
+  padding: 15px;
+  flex: 1;
+  background:#ECF0F6;
+}
+
+
 /**
 // ==========================================================================
 //  MAIN CSS FILE [ HEADER ]
